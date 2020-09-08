@@ -21,7 +21,11 @@ This is a _sample_ book written in **Markdown**. You can use anything that Pando
 ```{r, echo=FALSE, fig.align='center', out.width='50%'}
 knitr::include_graphics("basic-test/images/am_I_crazy.png")
 ```
+# Test outputting xfun::session_info('knitr')
 
+```{r}
+str(xfun::session_info('knitr'))
+```
 
 The **bookdown** package can be installed from CRAN or Github:
 
