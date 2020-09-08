@@ -1,6 +1,7 @@
 fig:nice-fig
 tab:nice-tab
 prerequisites
+sample-knitr-image-test
 intro
 literature
 methods
