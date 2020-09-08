@@ -19,7 +19,7 @@ This is a _sample_ book written in **Markdown**. You can use anything that Pando
 # Sample knitr image test
 
 ```{r, echo=FALSE, fig.align='center', out.width='50%'}
-knitr::include_graphics("images/am_I_crazy.png")
+knitr::include_graphics("basic-test/images/am_I_crazy.png")
 ```
 
 
