@@ -1,0 +1,3 @@
+```{r, echo=FALSE, fig.align='center', out.width='50%'}
+knitr::include_graphics("basic-test/images/am_I_crazy.png")
+```

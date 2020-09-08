@@ -22,6 +22,8 @@ This is a _sample_ book written in **Markdown**. You can use anything that Pando
 knitr::include_graphics("basic-test/images/am_I_crazy.png")
 ```
 
+```{r, child='basic-test/rmds/classics-cover-page.Rmd'}
+```
 
 The **bookdown** package can be installed from CRAN or Github:
 
